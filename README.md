@@ -1,7 +1,7 @@
 ![Hero_banner](/logo_Banner.png)
-### Hi there 👋
+### Hi there 🖐🏾
 
-![badge](https://www.codewars.com/users/CubeVic/badges/micro)
+🙈![badge](https://www.codewars.com/users/CubeVic/badges/micro)
 
 🌱 I’m currently learning: TensorFlow 2 and scikit-learn  
 📫 How to reach me: victoraguirre.f@gmail.com
