@@ -1,4 +1,10 @@
+![Hero_banner](/logo_Banner.png)
 ### Hi there 👋
+
+![badge](https://www.codewars.com/users/CubeVic/badges/micro)
+
+🌱 I’m currently learning: TensorFlow 2 and scikit-learn  
+📫 How to reach me: victoraguirre.f@gmail.com
 
 <!--
 **CubeVic/CubeVic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
