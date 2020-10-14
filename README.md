@@ -1,4 +1,4 @@
-![Hero_banner](/logo_Banner.png)
+![Hero_banner](/Hero_Image.png)
 ### Hi there 🖐🏾
 
 🙈![badge](https://www.codewars.com/users/CubeVic/badges/micro)
