@@ -1,7 +1,7 @@
 ![Hero_banner](/Hero_Image.png)
 ### Hi there 🖐🏾
 
-🙈![badge](https://www.codewars.com/users/CubeVic/badges/micro)
+🙈 ![badge](https://www.codewars.com/users/CubeVic/badges/small)
 
 ## ⌨️ Technologies and Tools
 ![OS_primary](https://img.shields.io/badge/OS-Mac-blueviolet?style=for-the-badge&logo=Apple&logoColor=white&color=9900FF) ![OS_secundary](https://img.shields.io/badge/OS-Linux-blueviolet?style=for-the-badge&logo=Ubuntu&logoColor=white&color=9900FF) ![Python](https://img.shields.io/badge/code-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white&color=9900FF)  
