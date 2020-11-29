@@ -11,6 +11,16 @@
 ![scikit-learn](https://img.shields.io/badge/code-scikit&boxh;learn-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F1C232)  
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-blueviolet?style=for-the-badge&logo=Javascript&logoColor=white&color=F1C232) 
 
+## Projects 
+
+### Project Davinci
+An Random pasword Generator 
+- Live Project [Project Davinci](https://projectdavinci.herokuapp.com/)
+
+### Project Task Master
+A To DO list, with option to create, edit and delete task
+- Live Project [Project Task Master](https://projectthetaskmaster.herokuapp.com/)
+
 ## 📥 Contact
 📫 How to reach me: victoraguirre.f@gmail.com
 
