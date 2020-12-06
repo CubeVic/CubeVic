@@ -22,6 +22,10 @@ An Random pasword Generator
 A To DO list, with option to create, edit and delete task
 - Live Project [Project Task Master](https://projectthetaskmaster.herokuapp.com/)
 
+### Project Hangman
+A simple game of hangman, it use the Python wrapper for the API datamuse to ftch random words to use in the game.
+- GitHub [Project Hangman](https://github.com/CubeVic/Project_Hangman)
+
 ## 📥 Contact
 📫 How to reach me: victoraguirre.f@gmail.com
 
