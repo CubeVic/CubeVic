@@ -4,7 +4,7 @@
 🙈 ![badge](https://www.codewars.com/users/CubeVic/badges/small)
 
 ## ⌨️ Technologies and Tools
-![OS_primary](https://img.shields.io/badge/OS-Mac-blueviolet?style=for-the-badge&logo=Apple&logoColor=white&color=9900FF) ![OS_secundary](https://img.shields.io/badge/OS-Linux-blueviolet?style=for-the-badge&logo=Ubuntu&logoColor=white&color=9900FF) ![Python](https://img.shields.io/badge/code-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white&color=9900FF)  
+![OS_primary](https://img.shields.io/badge/Mac-OS-blueviolet?style=for-the-badge&logo=Apple&logoColor=white&color=9900FF) ![OS_secundary](https://img.shields.io/badge/Linux-OS-blueviolet?style=for-the-badge&logo=Ubuntu&logoColor=white&color=9900FF) ![Python](https://img.shields.io/badge/Python-code-blueviolet?style=for-the-badge&logo=python&logoColor=white&color=9900FF)  
 🌱 I’m currently learning:   
 
 ![TensorFlow_2](https://img.shields.io/badge/code-TensorFlow-blueviolet?style=for-the-badge&logo=TensorFlow&logoColor=white&color=F1C232)  
@@ -13,16 +13,16 @@
 
 ## Projects 
 
-### Project Davinci
+### Project Davinci ![Python](https://img.shields.io/badge/Python-Code-blueviolet?style=flat-square&logo=python&logoColor=white&color=9900FF) ![Flask](https://img.shields.io/badge/Flask-Framework-blueviolet?style=flat-square&logo=Flask&logoColor=white&color=9900FF)
 An Random pasword Generator 
 - Live Project [Project Davinci](https://projectdavinci.herokuapp.com/)
 - Github [Project Davinci](https://github.com/CubeVic/Project_Davinci)
 
-### Project Task Master
+### Project Task Master ![Python](https://img.shields.io/badge/Python-Code-blueviolet?style=flat-square&logo=python&logoColor=white&color=9900FF) ![Flask](https://img.shields.io/badge/Flask-Framework-blueviolet?style=flat-square&logo=Flask&logoColor=white&color=9900FF)
 A To DO list, with option to create, edit and delete task
 - Live Project [Project Task Master](https://projectthetaskmaster.herokuapp.com/)
 
-### Project Hangman
+### Project Hangman ![Python](https://img.shields.io/badge/Python-Code-blueviolet?style=flat-square&logo=python&logoColor=white&color=9900FF) 
 A simple game of hangman, it use the Python wrapper for the API datamuse to ftch random words to use in the game.
 - GitHub [Project Hangman](https://github.com/CubeVic/Project_Hangman)
 
