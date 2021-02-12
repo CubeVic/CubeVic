@@ -1,4 +1,4 @@
-![Hero_banner](Hero_iIage_CubeVic_V1.png)
+![Hero_banner](Hero_Image_CubeVic_V1.png)
 ### Hi there 🖐🏾
 
 🙈 ![badge](https://www.codewars.com/users/CubeVic/badges/small)
