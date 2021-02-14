@@ -6,7 +6,7 @@
 ## ⌨️ Technologies and Tools
 ![OS_primary](https://img.shields.io/badge/Mac-OS-blueviolet?style=for-the-badge&logo=Apple&logoColor=white&color=9900FF) ![OS_secundary](https://img.shields.io/badge/Linux-OS-blueviolet?style=for-the-badge&logo=Ubuntu&logoColor=white&color=9900FF) ![Python](https://img.shields.io/badge/Python-code-blueviolet?style=for-the-badge&logo=python&logoColor=white&color=9900FF)  ![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=for-the-badge&logo=Markdown&logoColor=white&color=9900FF)   
 
-##🌱 I’m currently learning:   
+## 🌱 I’m currently learning:   
 
 ![TensorFlow_2](https://img.shields.io/badge/TensorFlow-Code-blueviolet?style=for-the-badge&logo=TensorFlow&logoColor=white&color=F1C232)  
 ![scikit-learn](https://img.shields.io/badge/scikit&boxh;learn-Code-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F1C232)  
