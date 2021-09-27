@@ -16,6 +16,10 @@ Learning notes: [CubeVic's Notes](https://cubevic.github.io/My_notes/)
 
 ## Projects 
 
+### Personal Notes ![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=flat-square&logo=Markdown&logoColor=white&color=9900FF) 
+Notes about My learning journey or tools that im using at the moment
+- Live project [My notes](https://cubevic.github.io/My_notes/)
+
 ### Project Davinci ![Python](https://img.shields.io/badge/Python-Code-blueviolet?style=flat-square&logo=python&logoColor=white&color=9900FF) ![Flask](https://img.shields.io/badge/Flask-Framework-blueviolet?style=flat-square&logo=Flask&logoColor=white&color=9900FF)
 An Random pasword Generator 
 - Live Project [Project Davinci](https://projectdavinci.herokuapp.com/)
