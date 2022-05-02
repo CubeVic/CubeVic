@@ -8,7 +8,8 @@
 
 ## 🌱 I’m exploring:   
 
-![TensorFlow_2](https://img.shields.io/badge/TensorFlow-Code-blueviolet?style=for-the-badge&logo=TensorFlow&logoColor=white&color=F1C232)  ![scikit-learn](https://img.shields.io/badge/scikit&boxh;learn-Code-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F1C232)  ![JavaScript](https://img.shields.io/badge/JavaScript-Code-blueviolet?style=for-the-badge&logo=Javascript&logoColor=white&color=F1C232) ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-Code-blueviolet?style=for-the-badge&logo=raspberrypi&logoColor=white&color=F1C232) ![Binance](https://img.shields.io/badge/binance-Code-blueviolet?style=for-the-badge&logo=binance&logoColor=white&color=F1C232) ![Coin Market Cap](https://img.shields.io/badge/coinmarketcap-Code-blueviolet?style=for-the-badge&logo=coinmarketcap&logoColor=white&color=F1C232)  
+![TensorFlow_2](https://img.shields.io/badge/TensorFlow-Code?style=for-the-badge&logo=TensorFlow&logoColor=gray&color=ffffff)  ![scikit-learn](https://img.shields.io/badge/scikit&boxh;learn-Code?style=for-the-badge&logo=scikit-learn&logoColor=gray&color=ffffff)  ![JavaScript](https://img.shields.io/badge/JavaScript-Code?style=for-the-badge&logo=Javascript&logoColor=gray&color=ffffff)   
+![Raspberry Pi](https://img.shields.io/badge/raspberrypi-Code?style=for-the-badge&logo=raspberrypi&logoColor=gray&color=ffffff) ![Binance](https://img.shields.io/badge/binance-Code?style=for-the-badge&logo=binance&logoColor=gray&color=ffffff) ![Coin Market Cap](https://img.shields.io/badge/coinmarketcap-Code?style=for-the-badge&logo=coinmarketcap&logoColor=gray&color=ffffff)  
 
 ## 🔭 I’m currently working on ...
 Personal Projects Using Raspberry Pi and Python.  
@@ -33,8 +34,7 @@ A simple game of hangman, it use the Python wrapper for the API datamuse to ftch
 
 ## 📓 Medium: [Medium Articles](https://medium.com/@fernandezvictor)
 
-## 📥 Contact
-📫 How to reach me: victoraguirre.f@gmail.com
+## 📥 Contact victoraguirre.f@gmail.com
 
 [![Victor's github stats](https://github-readme-stats.vercel.app/api?username=CubeVic&hide=contribs,prs&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/CubeVic/github-readme-stats)
 
