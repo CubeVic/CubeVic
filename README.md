@@ -7,40 +7,33 @@
 
 ## ⌨️ Technologies and Tools
 
-![Python][1] ![Javascript][2] ![robotframework][3] ![selenium][4] ![Markdown][5]
-
-[1]:(https://img.shields.io/badge/Python-code-blueviolet?style=for-the-badge&logo=python&logoColor=white&color=9900FF)
-[2]:(https://img.shields.io/badge/Javascript-code-blueviolet?style=for-the-badge&logo=Javascript&logoColor=white&color=9900FF)
-[3]:(https://img.shields.io/badge/robotframework-framework-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white&color=9900FF)
-[4]:(https://img.shields.io/badge/selenium-framework-blueviolet?style=for-the-badge&logo=selenium&logoColor=white&color=9900FF)
-[5]:(https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=for-the-badge&logo=Markdown&logoColor=white&color=9900FF)
+![Python](https://img.shields.io/badge/Python-code-blueviolet?style=for-the-badge&logo=python&logoColor=white&color=9900FF)
+![Javascript](https://img.shields.io/badge/Javascript-code-blueviolet?style=for-the-badge&logo=Javascript&logoColor=white&color=9900FF)
+![robotframework](https://img.shields.io/badge/robotframework-code-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white&color=9900FF)
+![selenium](https://img.shields.io/badge/selenium-framework-blueviolet?style=for-the-badge&logo=selenium&logoColor=white&color=9900FF)
+![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=for-the-badge&logo=Markdown&logoColor=white&color=9900FF)
 
 ## 🌱 I’m exploring
 
 ### Framework
 
-![TensorFlow_2][6]  ![scikit-learn][7]  ![robotframework][8] ![scrapy][9]
-
-[6]:(https://img.shields.io/badge/TensorFlow-Code?style=for-the-badge&logo=TensorFlow&logoColor=gray&color=ffffff)
-[7]:(https://img.shields.io/badge/scikit&boxh;learn-Code?style=for-the-badge&logo=scikit-learn&logoColor=gray&color=ffffff)
-[8]:(https://img.shields.io/badge/robotframework-Code?style=for-the-badge&logo=robotframework&logoColor=gray&color=ffffff)
-[9]:(https://img.shields.io/badge/scrapy-Code?style=for-the-badge&logo=scrapy&logoColor=gray&color=ffffff)
+![TensorFlow_2](https://img.shields.io/badge/TensorFlow-Code?style=for-the-badge&logo=TensorFlow&logoColor=gray&color=ffffff)
+![scikit-learn](https://img.shields.io/badge/scikit&boxh;learn-Code?style=for-the-badge&logo=scikit-learn&logoColor=gray&color=ffffff)
+![robotframework](https://img.shields.io/badge/robotframework-Code?style=for-the-badge&logo=robotframework&logoColor=gray&color=ffffff)
+![scrapy](https://img.shields.io/badge/scrapy-Code?style=for-the-badge&logo=scrapy&logoColor=gray&color=ffffff)
 
 ### Languages
 
-![GO][10]
-[10]:(https://img.shields.io/badge/Go-Code?style=for-the-badge&logo=go&logoColor=gray&color=ffffff)
+![GO](https://img.shields.io/badge/Go-Code?style=for-the-badge&logo=go&logoColor=gray&color=ffffff)
 
 ### Hardware
 
-![Raspberry Pi][11]
-[11]:(https://img.shields.io/badge/raspberrypi-Code?style=for-the-badge&logo=raspberrypi&logoColor=gray&color=ffffff)
+![Raspberry Pi](https://img.shields.io/badge/raspberrypi-Code?style=for-the-badge&logo=raspberrypi&logoColor=gray&color=ffffff)
 
 ### APIs
 
-![Binance][12] ![Coin Market Cap][13]
-[12]:(https://img.shields.io/badge/binance-Code?style=for-the-badge&logo=binance&logoColor=gray&color=ffffff)
-[13]:(https://img.shields.io/badge/coinmarketcap-Code?style=for-the-badge&logo=coinmarketcap&logoColor=gray&color=ffffff)
+![Binance](https://img.shields.io/badge/binance-Code?style=for-the-badge&logo=binance&logoColor=gray&color=ffffff)
+![Coin Market Cap](https://img.shields.io/badge/coinmarketcap-Code?style=for-the-badge&logo=coinmarketcap&logoColor=gray&color=ffffff)
 
 ---
 
@@ -57,14 +50,13 @@ Personal Projects Using Raspberry Pi and Python.
 
 ## 🖥️ OS I prefer
 
-![OS_primary][14] ![OS_secundary][15]
-
-[14]: (https://img.shields.io/badge/Mac-OS-blueviolet?style=for-the-badge&logo=Apple&logoColor=white&color=9900FF)
-[15]: (https://img.shields.io/badge/Linux-OS-blueviolet?style=for-the-badge&logo=Ubuntu&logoColor=white&color=9900FF)
+![OS_primary](https://img.shields.io/badge/Mac-OS-blueviolet?style=for-the-badge&logo=Apple&logoColor=white&color=9900FF)
+![OS_secundary](https://img.shields.io/badge/Linux-OS-blueviolet?style=for-the-badge&logo=Ubuntu&logoColor=white&color=9900FF)
 
 ### 📘 My Notes
 
-[My notes](https://cubevic.github.io/My_notes/) ![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=flat-square&logo=Markdown&logoColor=white&color=9900FF)
+[My notes](https://cubevic.github.io/My_notes/)
+![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=flat-square&logo=Markdown&logoColor=white&color=9900FF)
 
 ### 📓 Medium
 
