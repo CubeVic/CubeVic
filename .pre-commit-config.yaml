@@ -11,7 +11,4 @@ repos:
     rev: main
     hooks:
     - id: pymarkdown
-      args:
-      - -d
-      - MD041
-      - scan
+      args: [--disable-rules, MD041, scan ]
