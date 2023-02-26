@@ -7,11 +7,14 @@
 
 ## ⌨️ Technologies and Tools
 
-![Python](https://img.shields.io/badge/Python-code-blueviolet?style=for-the-badge&logo=python&logoColor=white&color=9900FF)
+![Python](https://img.shields.io/badge/Python-code-blueviolet?style=for-the-badge&logo=python&logoColor=[logoColor]&color=[color])
 ![Javascript](https://img.shields.io/badge/Javascript-code-blueviolet?style=for-the-badge&logo=Javascript&logoColor=white&color=9900FF)
 ![robotframework](https://img.shields.io/badge/robotframework-code-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white&color=9900FF)
 ![selenium](https://img.shields.io/badge/selenium-framework-blueviolet?style=for-the-badge&logo=selenium&logoColor=white&color=9900FF)
 ![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=for-the-badge&logo=Markdown&logoColor=white&color=9900FF)
+
+[logoColor]: white
+[color]: 9900FF
 
 ## 🌱 I’m exploring
 
