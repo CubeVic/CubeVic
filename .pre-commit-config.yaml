@@ -14,5 +14,4 @@ repos:
       args:
       - -d
       - MD041
-      - MD013
       - scan
