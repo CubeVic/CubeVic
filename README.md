@@ -17,6 +17,8 @@
 ### APIs
 ![Binance](https://img.shields.io/badge/binance-Code?style=for-the-badge&logo=binance&logoColor=gray&color=ffffff) ![Coin Market Cap](https://img.shields.io/badge/coinmarketcap-Code?style=for-the-badge&logo=coinmarketcap&logoColor=gray&color=ffffff)  
 
+---
+
 ## 🔭 I’m currently working on ...
 - Move my personal projects to docker containers. 
 - Adding github actions to track code quality and vulnerabilities. 
