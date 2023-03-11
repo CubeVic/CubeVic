@@ -48,21 +48,23 @@ Personal Projects Using Raspberry Pi and Python.
 > These projects should have real application, be short enough to be finished by
 > one person in a few days, and they don't required any exotic extra hardware.
 
-## 🖥️ OS I prefer
+---
 
-![OS_primary](https://img.shields.io/badge/Mac-OS-blueviolet?style=for-the-badge&logo=Apple&logoColor=white&color=9900FF)
-![OS_secundary](https://img.shields.io/badge/Linux-OS-blueviolet?style=for-the-badge&logo=Ubuntu&logoColor=white&color=9900FF)
+## 📘 My Notes
 
-### 📘 My Notes
-
-[My notes](https://cubevic.github.io/My_notes/)
 ![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=flat-square&logo=Markdown&logoColor=white&color=9900FF)
 
-### 📓 Medium
+[My notes](https://cubevic.github.io/My_notes/)
+
+---
+
+## 📓 Medium
 
 [Medium Articles](https://medium.com/@fernandezvictor)
 
-### 📥 Contact
+--- 
+
+## 📥 Contact
 
 Email **victoraguirre.f@gmail.com**
 
