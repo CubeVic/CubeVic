@@ -62,7 +62,7 @@ Personal Projects Using Raspberry Pi and Python.
 
 [Medium Articles](https://medium.com/@fernandezvictor)
 
---- 
+---
 
 ## 📥 Contact
 
