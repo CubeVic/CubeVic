@@ -67,5 +67,3 @@ Personal Projects Using Raspberry Pi and Python.
 ## 📥 Contact
 
 Email **victoraguirre.f@gmail.com**
-
-[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=CubeVic&hide=contribs,prs&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/CubeVic/github-readme-stats)
