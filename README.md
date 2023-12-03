@@ -67,3 +67,5 @@ Personal Projects Using Raspberry Pi and Python.
 ## 📥 Contact
 
 Email **victoraguirre.f@gmail.com**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CubeVic&theme=dark)](https://git.io/streak-stats)
