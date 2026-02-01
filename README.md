@@ -1,71 +1,55 @@
-<!-- markdownlint-disable  MD041-->
+<!-- markdownlint-disable MD041 -->
 ![Hero_banner](Hero_Image_CubeVic_V1.png)
 
-### Hi there 🖐🏾
+### Building Quality at Scale
 
-🙈 ![badge](https://www.codewars.com/users/CubeVic/badges/small)
-
-## ⌨️ Technologies and Tools
-
-![Python](https://img.shields.io/badge/Python-code-blueviolet?style=for-the-badge&logo=python&logoColor=white&color=9900FF)
-![Javascript](https://img.shields.io/badge/Javascript-code-blueviolet?style=for-the-badge&logo=Javascript&logoColor=white&color=9900FF)
-![robotframework](https://img.shields.io/badge/robotframework-code-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white&color=9900FF)
-![selenium](https://img.shields.io/badge/selenium-framework-blueviolet?style=for-the-badge&logo=selenium&logoColor=white&color=9900FF)
-![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=for-the-badge&logo=Markdown&logoColor=white&color=9900FF)
-
-## 🌱 I’m exploring
-
-### Framework
-
-![TensorFlow_2](https://img.shields.io/badge/TensorFlow-Code?style=for-the-badge&logo=TensorFlow&logoColor=gray&color=ffffff)
-![scikit-learn](https://img.shields.io/badge/scikit&boxh;learn-Code?style=for-the-badge&logo=scikit-learn&logoColor=gray&color=ffffff)
-![robotframework](https://img.shields.io/badge/robotframework-Code?style=for-the-badge&logo=robotframework&logoColor=gray&color=ffffff)
-![scrapy](https://img.shields.io/badge/scrapy-Code?style=for-the-badge&logo=scrapy&logoColor=gray&color=ffffff)
-
-### Languages
-
-![GO](https://img.shields.io/badge/Go-Code?style=for-the-badge&logo=go&logoColor=gray&color=ffffff)
-
-### Hardware
-
-![Raspberry Pi](https://img.shields.io/badge/raspberrypi-Code?style=for-the-badge&logo=raspberrypi&logoColor=gray&color=ffffff)
-
-### APIs
-
-![Binance](https://img.shields.io/badge/binance-Code?style=for-the-badge&logo=binance&logoColor=gray&color=ffffff)
-![Coin Market Cap](https://img.shields.io/badge/coinmarketcap-Code?style=for-the-badge&logo=coinmarketcap&logoColor=gray&color=ffffff)
+Test infrastructure, automation frameworks, and platform tooling for engineering
+organizations — from Selenium grids on Kubernetes to CI/CD pipeline integrations.
 
 ---
 
-## 🔭 I’m currently working on
+## What I Build
 
-- Move my personal projects to docker containers.
-- Adding github actions to track code quality and vulnerabilities.
-- Using Raspberry pi as a server to deploy my projects.
-Personal Projects Using Raspberry Pi and Python.
+**Test Infrastructure**
+Selenium grids, containerized test environments, mobile testing platforms
 
-> 📌 My goal is to explore projects with raspberry pi other than a magic mirror.
-> These projects should have real application, be short enough to be finished by
-> one person in a few days, and they don't required any exotic extra hardware.
+**Automation Frameworks**
+Python-based frameworks, Robot Framework, API testing suites
 
----
+**Platform Tooling**
+CI/CD integrations with Jenkins and GitHub Actions, developer productivity tools
 
-## 📘 My Notes
-
-![Markdown](https://img.shields.io/badge/Markdown-Markdown-blueviolet?style=flat-square&logo=Markdown&logoColor=white&color=9900FF)
-
-[My notes](https://cubevic.github.io/My_notes/)
+**Embedded Systems**
+Raspberry Pi deployments, hardware-integrated solutions
 
 ---
 
-## 📓 Medium
+## Stack
 
-[Medium Articles](https://medium.com/@fernandezvictor)
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/-Go-333?style=flat-square&logo=go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat-square&logo=kubernetes)
+![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat-square&logo=selenium)
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-333?style=flat-square&logo=robotframework)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat-square&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=flat-square&logo=githubactions)
 
 ---
 
-## 📥 Contact
+## Current Focus
 
-Email **victoraguirre.f@gmail.com**
+- Container orchestration for test infrastructure
+- CI/CD pipeline security and quality gates
+- Edge computing with Raspberry Pi
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CubeVic&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+---
+
+## Writing
+
+[Technical Notes](https://cubevic.github.io/My_notes/) · [Medium](https://medium.com/@fernandezvictor)
+
+---
+
+**Contact:** victoraguirre.f@gmail.com
