@@ -27,10 +27,6 @@ strategy across multiple regions, setting standards, enabling adoption, shipping
 * [`coinmarketcapAPI`](https://github.com/CubeVic/coinmarketcapAPI)
 * [`configuration_loader`](https://github.com/CubeVic/configuration_loader)
 * [`CLI_template`](https://github.com/CubeVic/CLI_template)
-<<<<<<< HEAD
-* [`python-cli-example`](https://github.com/CubeVic/python-cli-example)
-=======
->>>>>>> 5e73703 (removing unnecesary date)
 * *(hearsay-note -> in progress)*
 
 ---
