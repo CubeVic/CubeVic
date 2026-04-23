@@ -10,20 +10,25 @@ strategy across multiple regions, setting standards, enabling adoption, shipping
 
 ## What I Build
 
-**Test Infrastructure & Frameworks**
-[`pytest-playground`](https://github.com/CubeVic/pytest-playground) · [`robotframework_twitch`](https://github.com/CubeVic/robotframework_twitch)
-*(tr-toolkit · proj-visual-regression — in progress)*
+### Test Infrastructure & Frameworks
 
-**CI/CD & Platform Tooling**
-[`Jenkins-pipilines-playground`](https://github.com/CubeVic/Jenkins-pipilines-playground) · [`ShareLibrary`](https://github.com/CubeVic/ShareLibrary) · [`actions-learning-pathway`](https://github.com/CubeVic/actions-learning-pathway)
-*(jc-toolkit — in progress)*
+* [`pytest-playground`](https://github.com/CubeVic/pytest-playground) 
+* [`robotframework_twitch`](https://github.com/CubeVic/robotframework_twitch)
+* *(tr-toolkit,  proj-visual-regression -> in progress)*
 
-**Python Tooling & CLI**
-[`coinmarketcapAPI`](https://github.com/CubeVic/coinmarketcapAPI) · [`configuration_loader`](https://github.com/CubeVic/configuration_loader) · [`CLI_template`](https://github.com/CubeVic/CLI_template) · [`python-cli-example`](https://github.com/CubeVic/python-cli-example)
-*(hearsay-note — in progress)*
+### CI/CD & Platform Tooling
 
-**Edge & Embedded**
-[`programming_arduino`](https://github.com/CubeVic/programming_arduino) · [`Daily-Metal-Prices`](https://github.com/CubeVic/Daily-Metal-Prices)
+* [`Jenkins-pipilines-playground`](https://github.com/CubeVic/Jenkins-pipilines-playground)
+* [`ShareLibrary`](https://github.com/CubeVic/ShareLibrary) · [`actions-learning-pathway`](https://github.com/CubeVic/actions-learning-pathway)
+* *(jc-toolkit -> in progress)*
+
+### Python Tooling & CLI
+
+* [`coinmarketcapAPI`](https://github.com/CubeVic/coinmarketcapAPI)
+* [`configuration_loader`](https://github.com/CubeVic/configuration_loader)
+* [`CLI_template`](https://github.com/CubeVic/CLI_template)
+* [`python-cli-example`](https://github.com/CubeVic/python-cli-example)
+* *(hearsay-note -> in progress)*
 
 ---
 
@@ -82,6 +87,3 @@ strategy across multiple regions, setting standards, enabling adoption, shipping
 
 ![CubeVic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CubeVic&show_icons=true&theme=dark)
 
----
-
-**Contact:** [victoraguirre.f@gmail.com](mailto:victoraguirre.f@gmail.com)
