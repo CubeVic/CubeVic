@@ -12,7 +12,7 @@ strategy across multiple regions, setting standards, enabling adoption, shipping
 
 ### Test Infrastructure & Frameworks
 
-* [`pytest-playground`](https://github.com/CubeVic/pytest-playground) 
+* [`pytest-playground`](https://github.com/CubeVic/pytest-playground)
 * [`robotframework_twitch`](https://github.com/CubeVic/robotframework_twitch)
 * *(tr-toolkit,  proj-visual-regression -> in progress)*
 
@@ -85,4 +85,3 @@ strategy across multiple regions, setting standards, enabling adoption, shipping
 <!-- Tip: You can automate this section with https://github.com/gautamkrishnar/blog-post-workflow -->
 
 ![CubeVic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CubeVic&show_icons=true&theme=dark)
-
